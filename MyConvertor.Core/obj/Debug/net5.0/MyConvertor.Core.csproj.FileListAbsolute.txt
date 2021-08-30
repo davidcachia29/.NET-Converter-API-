@@ -1,0 +1,15 @@
+E:\Exam\MyConvertor.Core\bin\Debug\net5.0\MyConvertor.Core.deps.json
+E:\Exam\MyConvertor.Core\bin\Debug\net5.0\MyConvertor.Core.dll
+E:\Exam\MyConvertor.Core\bin\Debug\net5.0\ref\MyConvertor.Core.dll
+E:\Exam\MyConvertor.Core\bin\Debug\net5.0\MyConvertor.Core.pdb
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\MyConvertor.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\MyConvertor.Core.AssemblyInfoInputs.cache
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\MyConvertor.Core.AssemblyInfo.cs
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\MyConvertor.Core.csproj.CoreCompileInputs.cache
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\MyConvertor.Core.dll
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\ref\MyConvertor.Core.dll
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\MyConvertor.Core.pdb
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\MyConvertor.Core.csprojAssemblyReference.cache
+E:\Exam\MyConvertor.Core\bin\Debug\net5.0\MyConvertor.Core.runtimeconfig.json
+E:\Exam\MyConvertor.Core\bin\Debug\net5.0\MyConvertor.Core.runtimeconfig.dev.json
+E:\Exam\MyConvertor.Core\obj\Debug\net5.0\MyConvertor.Core.genruntimeconfig.cache
