@@ -4,9 +4,9 @@ using MyConvertor.Core.Models;
 
 namespace MyConvertor.Api.Validations
 {
-    public class SaveMusicResourceValidator : AbstractValidator<ConvertorDataGet>
+    public class SaveDataResourceValidator : AbstractValidator<ConvertorDataGet>
     {
-        public SaveMusicResourceValidator()
+        public SaveDataResourceValidator()
         {
             RuleFor(m => m.fromCurrency)
                 .NotEmpty()

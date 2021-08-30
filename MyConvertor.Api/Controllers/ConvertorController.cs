@@ -27,7 +27,7 @@ public class ConvertorController : ControllerBase{
     }
 
     [HttpGet("")]
-    public async Task<ActionResult<IEnumerable<Currency>>> GetAllMusics()
+    public async Task<ActionResult<IEnumerable<Currency>>> GetAllData()
     {
         var covnertor = await _currencyService.DisplayDataAsync();
         return Ok(covnertor);
@@ -53,7 +53,7 @@ public class ConvertorController : ControllerBase{
     {      
         
 
-        var newMusic = await _currencyService.DisplayConvertDataAsync(convertorResource);      
-          return Ok(newMusic);
+        var convertor = await _currencyService.DisplayConvertDataAsync(convertorResource);      
+          return Ok(convertor);
     }
 }
